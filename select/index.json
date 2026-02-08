@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Brand New Theater!",
+  "base_artist": "765 MILLION ALLSTARS",
+  "createdAt": "2026-02-08T07:10:17.293201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Brand New Theater!",
+      "artist": "765 MILLION ALLSTARS",
+      "has_synced": true,
+      "path": "select/01_Brand_New_Theater!_765_MILLION_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Brand New Theater! (M@STER VERSION)",
+      "artist": "765 MILLION ALLSTARS",
+      "has_synced": true,
+      "path": "select/02_Brand_New_Theater!_(M@STER_VERSION)_765_MILLION_ALLSTARS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Brand New Theater!",
+      "artist": "プリンセススターズ",
+      "has_synced": true,
+      "path": "select/03_Brand_New_Theater!_プリンセススターズ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Brand New Theater! (Kana Solo ver.)",
+      "artist": "プリンセススターズ",
+      "has_synced": true,
+      "path": "select/04_Brand_New_Theater!_(Kana_Solo_ver.)_プリンセススターズ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Brand New Theater!",
+      "artist": "765 MILLIONALLSTARS",
+      "has_synced": false,
+      "path": "select/pl_01_Brand_New_Theater!_765_MILLIONALLSTARS.txt"
+    }
+  ]
+}
